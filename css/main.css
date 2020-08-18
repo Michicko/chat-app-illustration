@@ -457,7 +457,7 @@ body {
   border: 1px solid transparent;
   background-color: white;
   border: 3rem;
-  padding: .3rem 1rem;
+  padding: .2rem 1rem;
   border-radius: 3rem;
 }
 
@@ -496,12 +496,12 @@ body {
 
 .container .content .phone .chat-app__chat-btn {
   border-radius: 50%;
-  padding: .1rem .3rem;
+  padding: .1rem .2rem;
   border: 1px solid transparent;
   color: white;
   background-color: #3e2753;
   font-weight: 700;
-  font-size: 1rem;
+  font-size: .8rem;
   cursor: pointer;
 }
 
