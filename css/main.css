@@ -289,12 +289,12 @@ body {
 
 @media only screen and (max-width: 41.875em) {
   .container .content .phone .chat-app__main > *:not(:last-child) {
-    margin-bottom: .7rem;
+    margin-bottom: .6rem;
   }
 }
 
 .container .content .phone .chat-app > p, .container .content .phone .chat-app > div {
-  font-size: .75rem;
+  font-size: .65rem;
   letter-spacing: 0;
 }
 
