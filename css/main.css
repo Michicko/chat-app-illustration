@@ -289,7 +289,7 @@ body {
 
 @media only screen and (max-width: 41.875em) {
   .container .content .phone .chat-app__main > *:not(:last-child) {
-    margin-bottom: .8rem;
+    margin-bottom: .7rem;
   }
 }
 
