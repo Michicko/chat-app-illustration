@@ -266,7 +266,15 @@ body {
       grid-template-rows: repeat(9, auto);
   -ms-flex-line-pack: start;
       align-content: flex-start;
-      grid-template-areas: "a a" "b b" "img img" "r-a r-a" "r-b r-b" "c c" "c-l-a c-l-a" "c-l-b c-l-b" "form form";
+      grid-template-areas: "a a"
+ "b b"
+ "img img"
+ "r-a r-a"
+ "r-b r-b"
+ "c c"
+ "c-l-a c-l-a"
+ "c-l-b c-l-b"
+ "form form";
 }
 
 @media only screen and (max-width: 41.875em) {
@@ -286,7 +294,7 @@ body {
 }
 
 .container .content .phone .chat-app > p, .container .content .phone .chat-app > div {
-  font-size: .8rem;
+  font-size: .75rem;
   letter-spacing: 0;
 }
 
